@@ -1,0 +1,72 @@
+.color1-bg { background-color: #2FC09C;}
+.color1 { color: #2FC09C; }
+.color2-bg { background-color: #DC698D !important;}
+.color2 { color: #DC698D; }
+
+.color1 { color:#2FC09C; } /* magenta-ish*/
+.color2 { color:#DC698D;} /* new blue-ish */
+
+.white-bg { color: #fff }
+
+.left-panel {
+    width: 23%;
+    margin-right: 2%;
+}
+
+.tab-color a {
+  color:white !important;
+}
+
+.main-panel{
+  padding: 20px !important;
+}
+
+.row {
+  margin-left:0px !important;
+  margin-right:0px !important;
+
+}
+
+body {
+  color: #888;
+  background: transparent linear-gradient(#37ACC0, #FFF) no-repeat scroll 0% 0%;
+  background-size: 100% 1000px;
+
+}
+
+
+p {
+  margin-bottom:10px;
+}
+
+.cleope-social-icons {
+    text-align:center;
+    margin:10px;
+    border:3px solid lightgray;
+    border-radius: 5px;
+}
+
+.cleope-social-icons img {
+  /*  background-size: 32px 32px;
+    background-position:center;
+    background-repeat: no-repeat;
+    width:50px;
+    height:50px;
+    padding: 0px;
+    display:inline-block;*/
+    max-width:32px;
+    max-height:32px;
+    margin:5px;
+}
+.promo_fija {
+  width:90% !important;
+  margin:7px;
+}
+
+.cleope-product-links {
+    text-align:center;
+    margin:10px;
+    /*border:3px solid lightgray;
+    border-radius: 5px;*/
+    /*padding: 5px;*/
+}
